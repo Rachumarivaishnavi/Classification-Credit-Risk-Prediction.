@@ -9,4 +9,4 @@ COLLAB LINK:
 https://colab.research.google.com/drive/15ofoVXP4rKojkNTqNm3WL35BkCMKyNKE?usp=sharing
 
 PROJECT PRESENTATION LINK:
-https://d.docs.live.net/39d94ef7a47961b8/Documents/credit%20risk%20prediction%20%5e%5e.pptx
+https://1drv.ms/p/c/39d94ef7a47961b8/Eepok-4w1OFCnowdCDvxdZ8B0No_InH7IBaUSRCYK1jOdA?e=WEacXJ
